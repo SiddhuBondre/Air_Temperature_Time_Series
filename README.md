@@ -18,6 +18,20 @@ Average temperature: Z°C
 
 Missing values: X%
 
+# Preprocessing
+
+Handle missing values (interpolation, forward-fill).
+
+Resampling (e.g., daily → monthly average).
+
+Feature engineering:
+
+Lag features (yesterday’s temperature, last week’s avg, etc.)
+
+Rolling averages
+
+Time features (month, season, weekday, holiday)
+
 # 🎯 Applications
 
 Forecasting: Predict future temperatures using time series analysis.
