@@ -29,3 +29,19 @@ Climate Trends: Study long-term warming or cooling trends.
 Anomaly Detection: Identify unusual temperature spikes or drops.
 
 Visualization Projects: Create heatmaps, trend lines, or seasonal decomposition plots.
+
+# ⚠️ Notes
+
+Missing values are represented as NaN and should be handled appropriately.
+
+Data may need resampling if observations are unevenly spaced.
+
+Extreme temperature values may require validation.
+
+Seasonal decomposition is recommended to understand trends and cyclic behavior.
+
+# 🌐 Data Source
+
+Collected from: Specify source (e.g., NOAA, NASA, Local Weather Station)
+
+License: Specify license
