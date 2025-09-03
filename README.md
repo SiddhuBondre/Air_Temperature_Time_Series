@@ -17,3 +17,15 @@ Temperature range: Min X°C, Max Y°C
 Average temperature: Z°C
 
 Missing values: X%
+
+# 🎯 Applications
+
+Forecasting: Predict future temperatures using time series analysis.
+
+Seasonal Analysis: Detect seasonal patterns such as summer/winter trends.
+
+Climate Trends: Study long-term warming or cooling trends.
+
+Anomaly Detection: Identify unusual temperature spikes or drops.
+
+Visualization Projects: Create heatmaps, trend lines, or seasonal decomposition plots.
