@@ -32,6 +32,24 @@ Rolling averages
 
 Time features (month, season, weekday, holiday)
 
+# Modeling Approaches
+
+📊 Traditional Time Series Models
+
+ARIMA / SARIMA → captures trend + seasonality
+
+Exponential Smoothing (Holt-Winters)
+
+🤖 Machine Learning Models
+
+Random Forest, XGBoost (with lag/rolling features)
+
+🧠 Deep Learning Models
+
+LSTM / GRU (works well for long-term dependencies)
+
+1D CNN + LSTM hybrid for feature extraction
+
 # 🎯 Applications
 
 Forecasting: Predict future temperatures using time series analysis.
