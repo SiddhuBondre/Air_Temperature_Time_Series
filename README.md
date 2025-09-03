@@ -45,3 +45,25 @@ Seasonal decomposition is recommended to understand trends and cyclic behavior.
 Collected from: Specify source (e.g., NOAA, NASA, Local Weather Station)
 
 License: Specify license
+
+# 🔍 Suggested Analysis Workflow
+
+Inspect the dataset for missing values and duplicates.
+
+Visualize trends, seasonality, and distributions.
+
+Handle missing or irregular data.
+
+Perform feature engineering (e.g., extract month, day, rolling averages).
+
+Apply statistical or machine learning models for forecasting or anomaly detection.
+
+Evaluate trends and insights from the results.
+
+# 📚 References
+
+NOAA Climate Data Online
+
+Time Series Analysis and Forecasting resources
+
+Seasonal decomposition techniques in climatology
